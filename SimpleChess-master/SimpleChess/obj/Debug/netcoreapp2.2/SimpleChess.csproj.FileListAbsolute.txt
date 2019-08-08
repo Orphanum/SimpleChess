@@ -1,0 +1,11 @@
+C:\Users\Geir\Documents\GitHub\StartIT4\student\henrik\CS\Chess\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp2.2\SimpleChess.deps.json
+C:\Users\Geir\Documents\GitHub\StartIT4\student\henrik\CS\Chess\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp2.2\SimpleChess.runtimeconfig.json
+C:\Users\Geir\Documents\GitHub\StartIT4\student\henrik\CS\Chess\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp2.2\SimpleChess.runtimeconfig.dev.json
+C:\Users\Geir\Documents\GitHub\StartIT4\student\henrik\CS\Chess\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp2.2\SimpleChess.dll
+C:\Users\Geir\Documents\GitHub\StartIT4\student\henrik\CS\Chess\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp2.2\SimpleChess.pdb
+C:\Users\Geir\Documents\GitHub\StartIT4\student\henrik\CS\Chess\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.csprojAssemblyReference.cache
+C:\Users\Geir\Documents\GitHub\StartIT4\student\henrik\CS\Chess\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.csproj.CoreCompileInputs.cache
+C:\Users\Geir\Documents\GitHub\StartIT4\student\henrik\CS\Chess\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.AssemblyInfoInputs.cache
+C:\Users\Geir\Documents\GitHub\StartIT4\student\henrik\CS\Chess\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.AssemblyInfo.cs
+C:\Users\Geir\Documents\GitHub\StartIT4\student\henrik\CS\Chess\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.dll
+C:\Users\Geir\Documents\GitHub\StartIT4\student\henrik\CS\Chess\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.pdb
